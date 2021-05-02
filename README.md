@@ -1,2 +1,2 @@
-# ShoppingCart
-React shopping cart assignment
+# navBarExercises
+Basic Exercises in Navbar, Props etc
